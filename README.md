@@ -1,6 +1,6 @@
 # Project 2 - *Flicker App*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Flicker App** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Arafat Mohammed**
 
@@ -19,7 +19,7 @@ The following advanced user stories are optional but strongly recommended:
 
 * [x] Improve the user interface through styling and coloring 
 
-* [x]Allow video posts to be played in full-screen using the YouTubePlayerView (3 points)
+* [x]Allow video posts to be played in full-screen using the YouTubePlayerView -- Partially :). I tried
 
 
 ## Video Walkthrough
